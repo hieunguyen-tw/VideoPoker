@@ -1,6 +1,6 @@
 package nv.hieu;
 
-import nv.hieu.model.CardDeck;
+import nv.hieu.model.card.CardDeck;
 import nv.hieu.model.Game;
 import nv.hieu.model.Player;
 

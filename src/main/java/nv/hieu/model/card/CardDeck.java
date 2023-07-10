@@ -1,4 +1,4 @@
-package nv.hieu.model;
+package nv.hieu.model.card;
 
 import java.util.*;
 

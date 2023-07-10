@@ -1,4 +1,4 @@
-package nv.hieu.model;
+package nv.hieu.constant;
 
 public class CardConstant {
     public static final int ACE_RANK = 1;

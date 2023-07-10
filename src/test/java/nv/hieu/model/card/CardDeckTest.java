@@ -1,6 +1,8 @@
-package nv.hieu.model;
+package nv.hieu.model.card;
 
 
+import nv.hieu.model.card.Card;
+import nv.hieu.model.card.CardDeck;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

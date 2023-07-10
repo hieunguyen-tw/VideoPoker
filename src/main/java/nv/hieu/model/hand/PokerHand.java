@@ -1,4 +1,7 @@
-package nv.hieu.model;
+package nv.hieu.model.hand;
+
+import nv.hieu.constant.CardConstant;
+import nv.hieu.model.card.Card;
 
 import java.util.*;
 

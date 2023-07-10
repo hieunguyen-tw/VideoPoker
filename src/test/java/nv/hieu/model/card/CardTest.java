@@ -1,5 +1,6 @@
-package nv.hieu.model;
+package nv.hieu.model.card;
 
+import nv.hieu.model.card.Card;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
 import org.junit.jupiter.params.provider.MethodSource;

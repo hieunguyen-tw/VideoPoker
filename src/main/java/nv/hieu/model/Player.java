@@ -1,10 +1,13 @@
 package nv.hieu.model;
 
+import nv.hieu.model.card.Card;
+import nv.hieu.model.card.CardDeck;
+import nv.hieu.model.hand.PokerHand;
+
 import java.util.Collection;
 
 public class Player {
     final PokerHand hand;
-
     public Player(PokerHand hand) {
         this.hand = hand;
     }

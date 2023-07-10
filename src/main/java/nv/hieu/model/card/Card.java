@@ -1,4 +1,6 @@
-package nv.hieu.model;
+package nv.hieu.model.card;
+
+import nv.hieu.constant.CardConstant;
 
 public enum Card {
 

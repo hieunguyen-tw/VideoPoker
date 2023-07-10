@@ -1,6 +1,9 @@
-package nv.hieu.model;
+package nv.hieu.model.hand;
 
 
+import nv.hieu.model.card.Card;
+import nv.hieu.model.hand.PokerHand;
+import nv.hieu.model.hand.PokerHandWinType;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

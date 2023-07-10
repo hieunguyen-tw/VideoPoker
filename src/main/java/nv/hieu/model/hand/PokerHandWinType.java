@@ -1,4 +1,4 @@
-package nv.hieu.model;
+package nv.hieu.model.hand;
 
 public enum PokerHandWinType {
     NONE, JACKS_OR_BETTER, TWO_PAIRS, THREE_OF_A_KIND,
